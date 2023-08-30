@@ -7,4 +7,4 @@ Milyonlarca insan, çalışan yaşlı yetişkinler arasında körlüğün önde 
 - Veri Seti geniş bir retina görüntüsü içerir
 - Bir klinisyen her görüntüyü diyabetik retionapatinin ciddiyetine göre 0-4 e kadar derecelendirilir.
 - Görüntüler çeşitli kameralar kullanılarak birden fazla klinikten uzun süre boyunca toplantı.
-
+- data link : https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
