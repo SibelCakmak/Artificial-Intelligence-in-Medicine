@@ -9,7 +9,7 @@ Milyonlarca insan, çalışan yaşlı yetişkinler arasında körlüğün önde 
 - Görüntüler çeşitli kameralar kullanılarak birden fazla klinikten uzun süre boyunca toplandı.
 - Data link : https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
-Beyin Tümörü Segmentasyonu
+Beyin Tümörü Segmentasyonu Projesi <br/>
 BraTS her zaman multimodal manyetik rezonans görüntüleme (MRI) taramalarında beyin tümörlerinin segmentasyonuna yönelik en gelişmiş yöntemlerin değerlendirilmesine odaklanan veri setidir.
 - Projede U-Net mimarisi kullanılmıştır.
 - Veriler hazırlanmış sonradan işleme tabi tutulmuştur.
